@@ -95,7 +95,7 @@ Thank you,<br>
 
 ## Credits
 
-To the amazing contributors of Twilio and Mandril API libraries.
+To the amazing contributors of Twilio and Mandrill API libraries.
 
 ## License
  
