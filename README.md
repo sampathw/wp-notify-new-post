@@ -16,9 +16,9 @@ This plugin notifies the subscribed users through **email and SMS** when a new p
 
 1. Create a new [MailChimp](http://www.mailchimp.com/) account if you don't have one. 
 2. Once you created an account or if you already have an account, create a new list or modify an existing list with following columns in **exact order**.
-* Column 1 - Email address
-* Column 2 - First Name
-* Column 3 - Phone
+⋅⋅* Column 1 - Email address
+⋅⋅* Column 2 - First Name
+⋅⋅* Column 3 - Phone
 3. Setup the list to receive data or import.
 4. Obtain the **MailChimp API Key** as described in [this page](http://kb.mailchimp.com/accounts/management/about-api-keys).
 5. Obtain the **MailChimp List ID** as described in [this page](http://kb.mailchimp.com/lists/managing-subscribers/find-your-list-id).
@@ -31,9 +31,9 @@ This plugin notifies the subscribed users through **email and SMS** when a new p
 #### Setup Email Notification Settings
 1. Create a new [MailChimp](http://www.mailchimp.com/) account if you don't have one. 
 2. Once you created an account or if you already have an account, create a new list or modify an existing list with following columns in **exact order**. You can use the same list created for SMS notification.
-* Column 1 - Email address
-* Column 2 - First Name
-* Column 3 - Phone 
+⋅⋅* Column 1 - Email address
+⋅⋅* Column 2 - First Name
+⋅⋅* Column 3 - Phone 
 3. Setup the list to receive data or import.
 4. Obtain the **MailChimp API Key** as described in [this page](http://kb.mailchimp.com/accounts/management/about-api-keys).
 5. Obtain the **MailChimp List ID** as described in [this page](http://kb.mailchimp.com/lists/managing-subscribers/find-your-list-id).
