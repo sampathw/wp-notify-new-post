@@ -1,6 +1,6 @@
 # WP Notify New Post
 
-This plugin notifies the subscribed users through *email and SMS* when a new post is added. You need to have a *[MailChimp](http://www.mailchimp.com/) + [Mandrill](http://www.mandrill.com/) account with a subscriber list and a [Twillio.com](https://www.twilio.com/)account for SMS sending*.
+This plugin notifies the subscribed users through *email and SMS* when a new post is added. You need to have a *[MailChimp](http://www.mailchimp.com/) + [Mandrill](http://www.mandrill.com/) account with a subscriber list and a [Twillio.com](https://www.twilio.com/) account for SMS sending*.
 
 ## Installation
 
